@@ -1,0 +1,55 @@
+Package: athena-hid
+Description: Client application turning remarkable 2 into a advanced USB tablet with tilt and pressure support
+Homepage: https://github.com/lonelytransistor/athena-hid
+Version: 0.0.1-0
+Section: devel
+Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
+License: GPLv2
+Architecture: armv7-3.2
+SHA256sum: 83ce6b53d48c9801850d5344522343f8
+Size: 700
+
+Package: athena-kernel
+Description: Custom kernel dedicated for remarkable2
+Homepage: https://github.com/lonelytransistor/athena-kernel
+Version: 0.0.1-0
+Section: devel
+Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
+License: MIT
+Architecture: armv7-3.2
+SHA256sum: 6715c96ba6ae0b0a269b19c2d7e02bc5
+Size: 661
+
+Package: athena-launcher
+Description: Custom launcher dedicated for remarkable2, embedded into xochitl
+Homepage: https://github.com/lonelytransistor/athena-launcher
+Version: 0.0.1-0
+Section: devel
+Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
+License: GPLv2
+Architecture: armv7-3.2
+SHA256sum: 1ed150b3efe1f8d3ff63c600504c243a
+Size: 683
+
+Package: athena-mtp
+Description: Client application turning remarkable 2 into a MTP device allowing easy USB file transfer
+Homepage: https://github.com/lonelytransistor/athena-mtp
+Version: 0.0.1-0
+Section: devel
+Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
+License: GPLv2
+Architecture: armv7-3.2
+SHA256sum: c3e219fa89a9072d64b488be255dc6e1
+Size: 705
+
+Package: athena-uvc
+Description: Client application turning remarkable 2 into a USB camera streaming the screens contents
+Homepage: https://github.com/lonelytransistor/athena-uvc
+Version: 0.0.1-0
+Section: devel
+Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
+License: GPLv2
+Architecture: armv7-3.2
+SHA256sum: 63a94e2c6215ec30bf876b6d17377ad0
+Size: 704
+
