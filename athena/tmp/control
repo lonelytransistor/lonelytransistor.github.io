@@ -1,8 +1,0 @@
-Package: athena-uvc
-Description: Client application turning remarkable 2 into a USB camera streaming the screens contents
-Homepage: https://github.com/lonelytransistor/athena-uvc
-Version: 0.0.1-0
-Section: devel
-Maintainer: lonelytransistor <lonelytransistor@protonmail.com>
-License: GPLv2
-Architecture: armv7-3.2
