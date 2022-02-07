@@ -1,4 +1,4 @@
-var packages={"athena-hid": {"description": "Client application turning remarkable 2 into a advanced USB tablet with tilt and pressure support", "Author": "lonelytransistor", "images": [], "icon": ""},
+{"athena-hid": {"description": "Client application turning remarkable 2 into a advanced USB tablet with tilt and pressure support", "Author": "lonelytransistor", "images": [], "icon": ""},
 "athena-kernel": {"description": "Custom kernel dedicated for remarkable2", "Author": "lonelytransistor", "images": [], "icon": ""},
 "athena-launcher": {"description": "Custom launcher dedicated for remarkable2, embedded into xochitl", "Author": "lonelytransistor", "images": [], "icon": ""},
 "athena-mtp": {"description": "Client application turning remarkable 2 into a MTP device allowing easy USB file transfer", "Author": "lonelytransistor", "images": [], "icon": ""},
