@@ -8,7 +8,7 @@ License: GPL-3.0-or-later
 Architecture: rmall
 Depends: athena-linux
 Filename: athena-linux_4.14.78-1_rmall.ipk
-SHA256sum: 1ed52953a37f6c7aec2b9b25d295b194
+SHA256sum: 2368f5309399b5e1cc9d09901e27a6f8915c7716ea4a5c719e5343786a4c0470
 Size: 22879108
 
 Package: athena-hook
@@ -21,6 +21,6 @@ License: GPL-3.0-or-later
 Architecture: rmall
 Depends: athena-linux
 Filename: athena-hook_1.0.0-1_rmall.ipk
-SHA256sum: a9a4a218c3834ccf9a18db9e24267c9b
+SHA256sum: d5507545fe3859e021139636f835252570d4ec694581d5c39e160ec05b226941
 Size: 5659418
 

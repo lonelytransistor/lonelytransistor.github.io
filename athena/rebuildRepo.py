@@ -4,11 +4,11 @@ from collections import OrderedDict as odict
 from packaging import version as v
 
 def hashFile(fName):
-    md5 = hashlib.md5()
+    sha256 = hashlib.sha256()
     with open(fName, 'rb') as f:
         while (data := f.read(65536)):
-            md5.update(data)
-    return md5.hexdigest()
+            sha256.update(data)
+    return sha256.hexdigest()
 
 def readControl(fName):
     print("Parsing", fName)
