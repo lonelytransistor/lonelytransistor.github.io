@@ -8,19 +8,19 @@ License: GPL-3.0-or-later
 Architecture: rmall
 Depends: athena-linux
 Filename: athena-linux_5.4.70-1_rmall.ipk
-SHA256sum: 0525a318b9fe90662662579120234783817036bfe5c5a106a649b603e911c4e1
-Size: 28227171
+SHA256sum: cc06e1e0edfb9e749902a4420298d8983bb5168da96d3933c06e8b64033e3980
+Size: 23604908
 
 Package: athena-hook
 Description: Athena hook
 Homepage: https://github.com/dutycyclefinfet/athena-hook
-Version: 1.0.0-1
+Version: 1.0.1-1
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
 Architecture: rmall
 Depends: athena-linux
-Filename: athena-hook_1.0.0-1_rmall.ipk
-SHA256sum: d5507545fe3859e021139636f835252570d4ec694581d5c39e160ec05b226941
-Size: 5659418
+Filename: athena-hook_1.0.1-1_rmall.ipk
+SHA256sum: d03e7a703c2b5088ec493eb2c5b45e264789d65be59823071e6cdd5870bccd2e
+Size: 5659328
 
