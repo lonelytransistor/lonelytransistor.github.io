@@ -14,13 +14,13 @@ Size: 23606266
 Package: athena-hook
 Description: Athena hook
 Homepage: https://github.com/dutycyclefinfet/athena-hook
-Version: 1.0.5-1
+Version: 1.0.5-2
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
 Architecture: rmall
 Depends: athena-linux
-Filename: athena-hook_1.0.5-1_rmall.ipk
-SHA256sum: e6aab87012846696270d8aa6f7f2f9e7e651bef1c443c02d6015865962a39a31
-Size: 5659105
+Filename: athena-hook_1.0.5-2_rmall.ipk
+SHA256sum: 77a187427936baf091e50d1858001d8a9392bdf506e79232b8a985482310f8e7
+Size: 5659172
 
