@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install Python packages
-        run: pip install PyGithub
+        run: pip install PyGithub packaging
       - name: Update repository
         run: |
           cd athena
