@@ -26,3 +26,16 @@ Filename: athena-linux_5.4.70-7_rmall.ipk
 SHA256sum: ef1685795a8c998ec50b7acbb4543ce74f8e770437f5d3df440201a749db65b6
 Size: 23625710
 
+Package: zeus
+Description: Athena launcher
+Homepage: https://github.com/dutycyclefinfet/athena-launcher
+Version: 1.0.0-5
+Section: utils
+Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
+License: GPL-3.0-or-later
+Architecture: rmall
+Depends: athena-hook, athena-linux
+Filename: zeus_1.0.0-5_rmall.ipk
+SHA256sum: 7b885550ffa66d13c6d12612c2d1dbb9ebb1a68fb0d9eaf26e51291675468f85
+Size: 341707
+
