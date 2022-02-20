@@ -29,7 +29,7 @@ Size: 23625710
 Package: zeus
 Description: Athena launcher
 Homepage: https://github.com/dutycyclefinfet/athena-launcher
-Version: 1.0.0-7
+Version: 1.0.0-9
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
@@ -37,7 +37,7 @@ Architecture: rmall
 Depends: athena-hook, athena-linux
 Conflicts: draft, remux, tarnish, xochitl
 Replaces: xochitl
-Filename: zeus_1.0.0-7_rmall.ipk
-SHA256sum: 2f9e241714baadf4e5673d45f1ab1e89dcbf0ce3172c3ff91c339b42cfa529c7
-Size: 345414
+Filename: zeus_1.0.0-9_rmall.ipk
+SHA256sum: 8f03a961187019a31d725b165c4982e35dc0b0d9abc8a0f1d6e62edbcc876e8c
+Size: 345468
 
