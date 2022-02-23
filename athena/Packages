@@ -1,7 +1,7 @@
 Package: athena-hook
 Description: Athena hook
 Homepage: https://github.com/dutycyclefinfet/athena-hook
-Version: 1.2.2-5
+Version: 1.2.2-6
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
@@ -9,9 +9,9 @@ Architecture: rmall
 Depends: athena-linux, coreutils-df, inotifywait, openssh-keygen, openssh-server, procps-ng-ps, swap-utils, wget-ssl
 Conflicts: display, rm2fb, rm2fb-client
 Replaces: display, rm2fb, rm2fb-client
-Filename: athena-hook_1.2.2-5_rmall.ipk
-SHA256sum: d20b6b3028565844a263df8ea1ada0c2d21d57b9f332505fcd537939db064ebf
-Size: 6630874
+Filename: athena-hook_1.2.2-6_rmall.ipk
+SHA256sum: 5045ed9eca6069dc3c841b0f75e96fc96dd881de527cd05edd4aa4ca07796d8b
+Size: 6631072
 
 Package: athena-linux
 Description: Athena kernel
