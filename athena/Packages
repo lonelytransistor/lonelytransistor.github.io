@@ -1,17 +1,17 @@
 Package: athena-hook
 Description: Athena hook
 Homepage: https://github.com/dutycyclefinfet/athena-hook
-Version: 1.2.0-4
+Version: 1.2.2-2
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
 Architecture: rmall
-Depends: athena-linux
+Depends: athena-linux, coreutils-df, inotifywait, openssh-keygen, openssh-server, procps-ng-ps, wget-ssl
 Conflicts: display, rm2fb, rm2fb-client
 Replaces: display, rm2fb, rm2fb-client
-Filename: athena-hook_1.2.0-4_rmall.ipk
-SHA256sum: bdc8e2747205a9524816b88b674c0825e84f318335df29d967ed46aa09579d1c
-Size: 6620648
+Filename: athena-hook_1.2.2-2_rmall.ipk
+SHA256sum: dda4dd42285cee2f06bb0fc9757c9ba823a23012c5cc0d2c5fced6b7233df5ad
+Size: 6630446
 
 Package: athena-linux
 Description: Athena kernel
@@ -29,7 +29,7 @@ Size: 23625710
 Package: zeus
 Description: Athena launcher
 Homepage: https://github.com/dutycyclefinfet/athena-launcher
-Version: 1.0.1-1
+Version: 1.0.2-1
 Section: utils
 Maintainer: Lonely Transistor <lonelytransistor@protonmail.com>
 License: GPL-3.0-or-later
@@ -37,7 +37,7 @@ Architecture: rmall
 Depends: athena-hook, athena-linux
 Conflicts: draft, remux, tarnish, xochitl
 Replaces: xochitl
-Filename: zeus_1.0.1-1_rmall.ipk
-SHA256sum: ee42b1f751169c6210c04cf1e06ecc0eafc90b12359cd202d977e6564dc6965f
-Size: 345538
+Filename: zeus_1.0.2-1_rmall.ipk
+SHA256sum: d45bd7af29f5efe7f90161855db9b69b3d1d22217ea31ababa3f2623f8dbc673
+Size: 346070
 
